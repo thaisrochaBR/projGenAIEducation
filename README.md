@@ -40,9 +40,9 @@ These maps show the **number of researchers involved in the project by country**
 
 Files:
 
-* [Visualizar Mapa de Pesquisadores - Layout 1](global_research_map_layout1.html)
-* [Visualizar Mapa de Pesquisadores - Layout 2](global_research_map_layout2.html)
-
+* [**View Interactive Researcher Map - Layout 1**](global_research_map_layout1.html)
+* [**View Interactive Researcher Map - Layout 2**](global_research_map_layout2.html)
+  
 Features:
 
 * Number of researchers per country
@@ -57,8 +57,8 @@ These maps show the **number of universities or research institutions participat
 
 Files:
 
-* [Visualizar Mapa de Universidades - Layout 1](global_universities_map_layout1.html)
-* [Visualizar Mapa de Universidades - Layout 2](global_universities_map_layout2.html)
+* [**View Interactive University Map - Layout 1**](global_universities_map_layout1.html)
+* [**View Interactive University Map - Layout 2**](global_universities_map_layout2.html)
 
 
 Features:
