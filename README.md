@@ -1,77 +1,78 @@
-# Global Research Collaboration Maps
+# Global Student Perspectives on Learning with Generative Artificial Intelligence in Higher Education: A Cross-Cultural Study
 
-This repository contains interactive world maps that visualize the geographic distribution of researchers and academic institutions involved in an international research collaboration.
+### Perspectivas Globais dos Estudantes sobre a Aprendizagem com Inteligência Artificial Generativa no Ensino Superior: Um Estudo Intercultural
 
-The maps were created using **Python**, **Pandas**, and **Plotly**, and exported as interactive HTML visualizations.
+## Project Overview
 
-## Available Maps
+This repository contains interactive visualizations of the global network of researchers and universities participating in the international research project:
 
-### Researcher Distribution Maps
+**"Global Student Perspectives on Learning with Generative Artificial Intelligence in Higher Education: A Cross-Cultural Study."**
 
-These maps show the number of researchers per country and list the researchers associated with each country.
+The maps illustrate the **geographical distribution of researchers and participating institutions worldwide**, supporting the analysis and dissemination of this international academic collaboration.
 
-* **Layout 1**
-
-  `global_research_map_layout1.html`
-
-* **Layout 2**
-
-  `global_research_map_layout2.html`
-
-Each country displays:
-
-* total number of researchers
-* list of researchers associated with that country
+These visualizations were generated using **Python**, **Pandas**, and **Plotly**, and exported as **interactive HTML maps** that can be explored directly in a web browser.
 
 ---
 
-### University / Institute Distribution Maps
+## Coordinating Institution
 
-These maps show the number of universities or institutes participating in the collaboration per country.
-
-* **Layout 1**
-
-  `global_universities_map_layout1.html`
-
-* **Layout 2**
-
-  `global_universities_map_layout2.html`
-
-Each country displays:
-
-* total number of institutions
-* list of universities or institutes participating in the collaboration
+**Universidade Estadual de Campinas (UNICAMP)** – Brazil
 
 ---
 
-## How to Use
+## Project Leadership
 
-1. Download any `.html` file from the repository.
-2. Open it in your web browser.
+**Principal Investigator**
+Danilo Rodrigues Pereira
 
-The maps are fully interactive and allow you to:
-
-* hover over countries
-* view the number of researchers or institutions
-* see the full list of researchers or universities associated with each country
+**Co-Principal Investigator**
+Simone Appenzeller
 
 ---
 
-## Technologies Used
+## Interactive Maps Available
 
-* Python
-* Pandas
-* Plotly
-* HTML (interactive visualization)
+This repository includes four interactive world maps that represent the global collaboration network.
+
+### 1. Researcher Distribution Maps
+
+These maps show the **number of researchers involved in the project by country**, including the list of participating researchers associated with each country.
+
+Files:
+
+* `global_research_map_layout1.html`
+* `global_research_map_layout2.html`
+
+Features:
+
+* Number of researchers per country
+* Interactive tooltips with researcher names
+* Global visualization of collaboration distribution
 
 ---
 
-## Purpose
+### 2. University / Institute Distribution Maps
 
-These visualizations help illustrate the **global network of academic collaboration**, highlighting the geographic distribution of researchers and institutions involved in the project.
+These maps show the **number of universities or research institutions participating in the project by country**.
+
+Files:
+
+* `global_universities_map_layout1.html`
+* `global_universities_map_layout2.html`
+
+Features:
+
+* Number of participating institutions per country
+* Interactive tooltips displaying the institutions in each country
+* Visualization of the institutional collaboration network
 
 ---
 
-## Notes
+## How to View the Maps
 
-The maps are exported as standalone HTML files and do not require any additional software or dependencies to run.
+The maps are exported as standalone **HTML files** and can be viewed easily:
+
+1. Download any `.html` file from this repository.
+2. Open the file in your preferred web browser.
+
+No add
