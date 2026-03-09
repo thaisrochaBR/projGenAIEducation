@@ -75,4 +75,44 @@ The maps are exported as standalone **HTML files** and can be viewed easily:
 1. Download any `.html` file from this repository.
 2. Open the file in your preferred web browser.
 
-No add
+No additional software or dependencies are required.
+
+---
+
+## Technologies Used
+
+* **Python**
+* **Pandas**
+* **Plotly**
+* **NumPy**
+* **HTML Interactive Visualization**
+
+---
+
+## Data Structure
+
+The visualizations are generated from structured datasets containing information about:
+
+* Researchers participating in the study
+* Affiliated universities or institutes
+* Country of each institution
+
+The data are processed to produce aggregated country-level visualizations.
+
+---
+
+## Purpose of the Visualizations
+
+These maps aim to:
+
+* Illustrate the **global academic collaboration network**
+* Highlight the **international diversity of participating researchers and institutions**
+* Support the **presentation and dissemination of the research project**
+
+---
+
+## License
+
+This repository is intended for **academic and research dissemination purposes** related to the project.
+
+For additional information about the project, please contact the project coordination team at **UNICAMP**.
