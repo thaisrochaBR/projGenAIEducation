@@ -1,5 +1,7 @@
 # 🌍 Global Student Perspectives on Learning with Generative Artificial Intelligence in Higher Education: A Cross-Cultural Study
-
+<p align="center">
+  <img src="images/image_researchers_GenAI.png" width="900">
+</p>
 ### 🎓 Perspectivas Globais dos Estudantes sobre a Aprendizagem com Inteligência Artificial Generativa no Ensino Superior: Um Estudo Intercultural
 
 ---
