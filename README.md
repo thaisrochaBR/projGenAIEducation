@@ -1,119 +1,122 @@
-# Global Student Perspectives on Learning with Generative Artificial Intelligence in Higher Education: A Cross-Cultural Study
+# 🌍 Global Student Perspectives on Learning with Generative Artificial Intelligence in Higher Education: A Cross-Cultural Study
 
-### Perspectivas Globais dos Estudantes sobre a Aprendizagem com Inteligência Artificial Generativa no Ensino Superior: Um Estudo Intercultural
+### 🎓 Perspectivas Globais dos Estudantes sobre a Aprendizagem com Inteligência Artificial Generativa no Ensino Superior: Um Estudo Intercultural
 
-## Project Overview
+---
 
-This repository contains interactive visualizations of the global network of researchers and universities participating in the international research project:
+# 📌 Project Overview
+
+This repository contains **interactive visualizations** of the global network of researchers and universities participating in the international research project:
 
 **"Global Student Perspectives on Learning with Generative Artificial Intelligence in Higher Education: A Cross-Cultural Study."**
 
-The maps illustrate the **geographical distribution of researchers and participating institutions worldwide**, supporting the analysis and dissemination of this international academic collaboration.
+The maps illustrate the **🌎 geographical distribution of researchers and participating institutions worldwide**, supporting the analysis and dissemination of this international academic collaboration.
 
-These visualizations were generated using **Python**, **Pandas**, and **Plotly**, and exported as **interactive HTML maps** that can be explored directly in a web browser.
-
----
-
-## Coordinating Institution
-
-**Universidade Estadual de Campinas (UNICAMP)** – Brazil
+These visualizations were generated using **🐍 Python**, **📊 Pandas**, and **📈 Plotly**, and exported as **interactive HTML maps** that can be explored directly in a web browser.
 
 ---
 
-## Project Leadership
+# 🏛 Coordinating Institution
 
-**Principal Investigator**
-Danilo Rodrigues Pereira
-
-**Co-Principal Investigator**
-Simone Appenzeller
+**Universidade Estadual de Campinas (UNICAMP)** – Brazil 🇧🇷
 
 ---
 
-## Interactive Maps Available
+# 👩‍🔬👨‍🔬 Project Leadership
 
-This repository includes four interactive world maps that represent the global collaboration network.
+### ⭐ Principal Investigator  
+**Danilo Rodrigues Pereira**
 
-### 1. Researcher Distribution Maps
+### 🤝 Co-Principal Investigator  
+**Simone Appenzeller**
+
+---
+
+# 🗺 Interactive Maps Available
+
+This repository includes **four interactive world maps** representing the **global collaboration network**.
+
+---
+
+# 👩‍💻 1. Researcher Distribution Maps
 
 These maps show the **number of researchers involved in the project by country**, including the list of participating researchers associated with each country.
 
-Files:
+### 📂 Files
 
-* [**View Interactive Researcher Map - Layout 1**](global_research_map_layout1.html)
-* [**View Interactive Researcher Map - Layout 2**](global_research_map_layout2.html)
-  
-Features:
+- 🌐 **[View Interactive Researcher Map - Layout 1](global_research_map_layout1.html)**
+- 🌐 **[View Interactive Researcher Map - Layout 2](global_research_map_layout2.html)**
 
-* Number of researchers per country
-* Interactive tooltips with researcher names
-* Global visualization of collaboration distribution
+### ✨ Features
+
+- 👩‍🔬 Number of researchers per country  
+- 🧾 Interactive tooltips with researcher names  
+- 🌍 Global visualization of collaboration distribution  
 
 ---
 
-### 2. University / Institute Distribution Maps
+# 🏫 2. University / Institute Distribution Maps
 
 These maps show the **number of universities or research institutions participating in the project by country**.
 
-Files:
+### 📂 Files
 
-* [**View Interactive University Map - Layout 1**](global_universities_map_layout1.html)
-* [**View Interactive University Map - Layout 2**](global_universities_map_layout2.html)
+- 🌐 **[View Interactive University Map - Layout 1](global_universities_map_layout1.html)**
+- 🌐 **[View Interactive University Map - Layout 2](global_universities_map_layout2.html)**
 
+### ✨ Features
 
-Features:
-
-* Number of participating institutions per country
-* Interactive tooltips displaying the institutions in each country
-* Visualization of the institutional collaboration network
+- 🏛 Number of participating institutions per country  
+- 🧾 Interactive tooltips displaying institutions in each country  
+- 🌍 Visualization of the institutional collaboration network  
 
 ---
 
-## How to View the Maps
+# 💻 How to View the Maps
 
 The maps are exported as standalone **HTML files** and can be viewed easily:
 
-1. Download any `.html` file from this repository.
-2. Open the file in your preferred web browser.
+1️⃣ Download any `.html` file from this repository.  
+2️⃣ Open the file in your preferred **web browser**.
 
-No additional software or dependencies are required.
-
----
-
-## Technologies Used
-
-* **Python**
-* **Pandas**
-* **Plotly**
-* **NumPy**
-* **HTML Interactive Visualization**
+✅ No additional software or dependencies are required.
 
 ---
 
-## Data Structure
+# ⚙️ Technologies Used
+
+- 🐍 **Python**
+- 📊 **Pandas**
+- 📈 **Plotly**
+- 🔢 **NumPy**
+- 🌐 **HTML Interactive Visualization**
+
+---
+
+# 🗂 Data Structure
 
 The visualizations are generated from structured datasets containing information about:
 
-* Researchers participating in the study
-* Affiliated universities or institutes
-* Country of each institution
+- 👩‍🔬 Researchers participating in the study  
+- 🏫 Affiliated universities or institutes  
+- 🌍 Country of each institution  
 
-The data are processed to produce aggregated country-level visualizations.
+The data are processed to produce **aggregated country-level visualizations**.
 
 ---
 
-## Purpose of the Visualizations
+# 🎯 Purpose of the Visualizations
 
 These maps aim to:
 
-* Illustrate the **global academic collaboration network**
-* Highlight the **international diversity of participating researchers and institutions**
-* Support the **presentation and dissemination of the research project**
+- 🌍 Illustrate the **global academic collaboration network**  
+- 🤝 Highlight the **international diversity of participating researchers and institutions**  
+- 📢 Support the **presentation and dissemination of the research project**
 
 ---
 
-## License
+# 📄 License
 
 This repository is intended for **academic and research dissemination purposes** related to the project.
 
-For additional information about the project, please contact the project coordination team at **UNICAMP**.
+📬 For additional information about the project, please contact the **project coordination team at UNICAMP**.
