@@ -50,9 +50,14 @@ This map shows the number of universities or research institutions participating
 * Interactive tooltips displaying the institutions in each country
 * Visualization of the global institutional collaboration network
 
+### ▶️ View the Map Online
+
+You can explore the interactive map directly in your browser without downloading:  
+[**Click here to view the map**](https://htmlpreview.github.io/?https://github.com/thaisrochaBR/projGenAIEducation/blob/main/global_universities_map_advanced.html)
+
 ---
 
-## How to View the Map
+## How to View the Map Locally
 
 The map is exported as a standalone HTML file and can be viewed easily:
 
