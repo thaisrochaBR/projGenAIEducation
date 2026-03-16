@@ -2,7 +2,7 @@
 
 ## Perspectivas Globais dos Estudantes sobre a Aprendizagem com Inteligência Artificial Generativa no Ensino Superior: Um Estudo Intercultural
 
-![Project Logo](image_projGenAI.jpg)
+![Project Logo](images/image_projGenAI.jpg)
 
 ## Project Overview
 
