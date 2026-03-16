@@ -1,82 +1,60 @@
 # Global Student Perspectives on Learning with Generative Artificial Intelligence in Higher Education: A Cross-Cultural Study
 
-### Perspectivas Globais dos Estudantes sobre a Aprendizagem com Inteligência Artificial Generativa no Ensino Superior: Um Estudo Intercultural
-
-<p align="center">
-  <img src="images/image_researchers_GenAI.png" width="900">
-</p>
+## Perspectivas Globais dos Estudantes sobre a Aprendizagem com Inteligência Artificial Generativa no Ensino Superior: Um Estudo Intercultural
 
 ## Project Overview
 
-This repository contains interactive visualizations of the global network of researchers and universities participating in the international research project:
+This repository contains an interactive visualization of the global network of universities participating in the international research project:
 
-**"Global Student Perspectives on Learning with Generative Artificial Intelligence in Higher Education: A Cross-Cultural Study."**
+**“Global Student Perspectives on Learning with Generative Artificial Intelligence in Higher Education: A Cross-Cultural Study.”**
 
-The maps illustrate the **geographical distribution of researchers and participating institutions worldwide**, supporting the analysis and dissemination of this international academic collaboration.
+The map illustrates the geographical distribution of participating universities and research institutions worldwide, supporting the analysis and dissemination of this international academic collaboration.
 
-These visualizations were generated using **Python**, **Pandas**, and **Plotly**, and exported as **interactive HTML maps** that can be explored directly in a web browser.
+The visualization was generated using Python and exported as an interactive HTML map that can be explored directly in a web browser.
 
 ---
 
 ## Coordinating Institution
 
-**Universidade Estadual de Campinas (UNICAMP)** – Brazil
+Universidade Estadual de Campinas (UNICAMP) – Brazil
 
 ---
 
 ## Project Leadership
 
-**Principal Investigator**  
-Danilo Rodrigues Pereira  
+**Principal Investigator**
+Danilo Rodrigues Pereira
 
-**Co-Principal Investigator**  
-Simone Appenzeller  
-
----
-
-## Interactive Maps Available
-
-This repository includes four interactive world maps that represent the global collaboration network.
-
-### 1. Researcher Distribution Maps
-
-These maps show the **number of researchers involved in the project by country**, including the list of participating researchers associated with each country.
-
-Files:
-
-* [**View Interactive Researcher Map - Layout 1**](global_research_map_layout1.html)
-* [**View Interactive Researcher Map - Layout 2**](global_research_map_layout2.html)
-
-Features:
-
-* Number of researchers per country  
-* Interactive tooltips with researcher names  
-* Global visualization of collaboration distribution  
+**Co-Principal Investigator**
+Simone Appenzeller
 
 ---
 
-### 2. University / Institute Distribution Maps
+## Interactive Map
 
-These maps show the **number of universities or research institutions participating in the project by country**.
+This repository includes one interactive world map representing the global institutional collaboration network.
 
-Files:
+### University / Institute Distribution Map
 
-* [**View Interactive University Map - Layout 1**](global_universities_map_layout1.html)
-* [**View Interactive University Map - Layout 2**](global_universities_map_layout2.html)
+This map shows the number of universities or research institutions participating in the project by country.
 
-Features:
+**File**
 
-* Number of participating institutions per country  
-* Interactive tooltips displaying the institutions in each country  
-* Visualization of the institutional collaboration network  
+`global_universities_map_advanced.html`
+
+**Features**
+
+* Number of participating institutions per country
+* Interactive tooltips displaying the institutions in each country
+* Visualization of the global institutional collaboration network
 
 ---
 
-## How to View the Maps
+## How to View the Map
 
-The maps are exported as standalone **HTML files** and can be viewed easily:
+The map is exported as a standalone HTML file and can be viewed easily:
 
-1. Download any `.html` file from this repository.  
+1. Download the file `global_universities_map_advanced.html`.
 2. Open the file in your preferred web browser.
 
 No additional software or dependencies are required.
@@ -85,38 +63,36 @@ No additional software or dependencies are required.
 
 ## Technologies Used
 
-* **Python**
-* **Pandas**
-* **Plotly**
-* **NumPy**
-* **HTML Interactive Visualization**
+* Python
+* Pandas
+* Plotly
+* HTML Interactive Visualization
 
 ---
 
 ## Data Structure
 
-The visualizations are generated from structured datasets containing information about:
+The visualization is generated from structured datasets containing information about:
 
-* Researchers participating in the study
-* Affiliated universities or institutes
+* Universities and research institutions participating in the study
 * Country of each institution
 
 The data are processed to produce aggregated country-level visualizations.
 
 ---
 
-## Purpose of the Visualizations
+## Purpose of the Visualization
 
-These maps aim to:
+This map aims to:
 
-* Illustrate the **global academic collaboration network**
-* Highlight the **international diversity of participating researchers and institutions**
-* Support the **presentation and dissemination of the research project**
+* Illustrate the global academic collaboration network
+* Highlight the international diversity of participating institutions
+* Support the presentation and dissemination of the research project
 
 ---
 
 ## License
 
-This repository is intended for **academic and research dissemination purposes** related to the project.
+This repository is intended for academic and research dissemination purposes related to the project.
 
-For additional information about the project, please contact the project coordination team at **UNICAMP**.
+For additional information about the project, please contact the project coordination team at UNICAMP.
