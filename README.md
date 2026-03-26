@@ -69,7 +69,8 @@ This map presents the number of universities and research institutions participa
 
 You can explore the interactive map directly in your browser without downloading:
 
-👉 https://thaisrochabr.github.io/projGenAIEducation/global_universities_map_advanced.html
+👉 https://htmlpreview.github.io/?https://github.com/thaisrochaBR/projGenAIEducation/blob/main/global_universities_map_advanced.html
+
 ---
 
 ## How to View the Map Locally
